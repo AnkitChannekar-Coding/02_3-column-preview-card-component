@@ -54,9 +54,6 @@ main{
     margin-bottom: 2.5rem;
 }
 .card-orange{
-    /* border-radius: 8px 0px 0px 8px; */
-   /* border-top-left-radius: 8px;
-   border-top-right-radius: 8px; */
     background-color: #E28525;
 }
 .card-cyan{
@@ -64,9 +61,6 @@ main{
    }
 .card-darkcyan
 {
-    /* border-radius: 0 8px 8px 0px; */
-   /* border-bottom-left-radius: 8px;
-   border-bottom-right-radius: 8px; */
     background-color: #00403F;
 }
 @media (max-width:800px){
